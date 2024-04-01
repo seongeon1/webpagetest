@@ -1,0 +1,37 @@
+body{
+    background: #f3f3f3;
+    font-family: Poppins, "Noto Sans KR", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+
+}
+
+#T{
+    font-size: 20px;
+    font-weight: 400 bold;
+    text-align: center;
+}
+
+#ST{
+    color: #818181;
+    font-size: 12px;
+    font-weight: 400;
+    text-align: center;
+}
+
+#N{
+    background: #ffffff;
+    margin: 24px auto;
+    padding: 24px;
+    width: 320px;
+    font-weight: bold;
+    
+}
+
+#span{
+    color: #818181;
+    font-size: 12px;
+    font-weight: 400;
+    text-align: center;
+
+}
